@@ -1,6 +1,6 @@
 # Hello, I'm Christopher Ringewald
 
-I'm the Senior Director for Research and Data Analysis at [Catalyst California](www.catalystcalifornia.org).
+I'm the Senior Director for Research and Data Analysis at [Catalyst California](https://www.catalystcalifornia.org/).
 
 As a proud Californian, I work to make the best and most just California for everyone possible. I've been fortunate to study history and urban planning and find a career I love. On a daily basis, I use learnings from three graduate school classes: community engagement, demographics, and GIS. 
 
